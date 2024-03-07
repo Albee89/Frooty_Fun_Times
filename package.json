@@ -1,0 +1,27 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Bootstrapped from codewithfaraz with adjustments by me",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albee89/Frooty_Fun_Times.git"
+  },
+  "keywords": [
+    "fruit",
+    "ninja",
+    "fruit",
+    "game",
+    "fruit",
+    "slicer"
+  ],
+  "author": "Alex Bain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albee89/Frooty_Fun_Times/issues"
+  },
+  "homepage": "https://github.com/Albee89/Frooty_Fun_Times#readme"
+}
