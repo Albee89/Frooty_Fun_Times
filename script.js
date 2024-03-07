@@ -47,7 +47,7 @@ $("#fruit1").mouseover(function () {
     $("#slicesound")[0].play();
 
     // hide fruit after a delay:
-    $('#fruit1').hide("explode", 100); // Adjust the delay as needed
+    $('#fruit1').hide("explode", 200); // Adjust the delay as needed
 
     // send new fruit:
     setTimeout(startAction, 500);
